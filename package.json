@@ -1,0 +1,27 @@
+{
+  "name": "budget-tracker-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davistr/budget-tracker-PWA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davistr/budget-tracker-PWA/issues"
+  },
+  "homepage": "https://github.com/davistr/budget-tracker-PWA#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10",
+    "morgan": "^1.10.0"
+  }
+}
